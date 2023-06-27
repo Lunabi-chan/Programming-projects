@@ -1,0 +1,20 @@
+const Slovnik CA[]={{"pamet","memory"},{"pamet","storage"},{"pamet","storage"},
+                    {"vypocet","calculation"},{"vypocet","computation"},
+                    {"pocitac","computer"},{"pocitac","counter"},
+                    {"hracka","toy"}, {"hracka","plaything"},
+                    {"instrukce","instruction"},{"instrukce","instruction"},
+                    {"chyba","mistake"},{"chyba","error"},{"chyba","fault"},{"chyba","flaw"},{"chyba","defect"},
+                    {"pocet","number"},{"pocet","number"},{"pocet","count"},{"pocet","quantity"},
+                    {"disk","disk"},{"disk","disc"},{"disk","disk"},{"disk","disk"},{"disk","disc"},{"disk","disk"},
+                    {"polovina","half"},{"polovina","middle"},{"polovina","midpoint"},{"polovina","center"},
+                    {"slozitost","complicatedness"},{"slozitost","complexity"},{"slozitost","intricacy"},
+                    {"pouziti","use"},{"pouziti","application"},{"pouziti","employment"},{"pouziti","usage"},
+                    {"pocet","number"},{"pocet","number"},{"pocet","count"},{"pocet","quantity"},                
+                    {"cyklus","loop"},{"cyklus","cycle"},{"cyklus","series"},{"cyklus","course"},
+                    {"prikaz","order"},{"prikaz","command"},
+                    {"slovo","word"},
+                    {"promenna","variable"},
+                    {"frekvence","frequency"},{"frekvence","rate"},
+                    {"cetnost","frequency"}};
+
+#define CAPocet (sizeof CA/sizeof *CA)

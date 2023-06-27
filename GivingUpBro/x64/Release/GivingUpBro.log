@@ -1,0 +1,32 @@
+﻿  Duongová-MyLinh-06.c
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(26,13): warning C4098: 'array_redo_column': 'void' function returning a value
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(42,13): warning C4098: 'array_redo_row': 'void' function returning a value
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(60,25): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(61,27): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(64,26): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(65,27): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(68,18): warning C4133: '=': incompatible types - from 'node *' to 'tree *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(69,10): warning C4047: 'function': 'tree *' differs in levels of indirection from 'tree **'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(69,8): warning C4024: 'add': different types for formal and actual parameter 1
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(72,19): warning C4133: '=': incompatible types - from 'node *' to 'tree *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(73,10): warning C4047: 'function': 'tree *' differs in levels of indirection from 'tree **'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(73,8): warning C4024: 'add': different types for formal and actual parameter 1
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(88,13): warning C4133: 'initializing': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(92,13): warning C4133: 'initializing': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(111,13): warning C4133: 'initializing': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(115,13): warning C4133: 'initializing': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(134,63): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(135,55): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(147,63): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(148,55): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(167,28): warning C4133: '==': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(161,9): warning C4047: 'initializing': 'node *' differs in levels of indirection from 'node **'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(165,11): warning C4047: 'initializing': 'node *' differs in levels of indirection from 'node **'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(198,20): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-06.c(201,21): warning C4133: 'function': incompatible types - from 'node *' to 'node *'
+  Generating code
+  2 of 11 functions (18.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GivingUpBro.vcxproj -> C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\x64\Release\GivingUpBro.exe

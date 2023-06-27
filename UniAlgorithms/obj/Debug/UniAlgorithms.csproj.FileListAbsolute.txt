@@ -1,0 +1,8 @@
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\bin\Debug\UniAlgorithms.exe.config
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\bin\Debug\UniAlgorithms.exe
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\bin\Debug\UniAlgorithms.pdb
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\obj\Debug\UniAlgorithms.csproj.AssemblyReference.cache
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\obj\Debug\UniAlgorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\obj\Debug\UniAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\obj\Debug\UniAlgorithms.exe
+C:\Users\MlpLu\Documents\Programming projects\UniAlgorithms\obj\Debug\UniAlgorithms.pdb

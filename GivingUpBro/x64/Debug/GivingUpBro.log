@@ -1,0 +1,12 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Duongová-MyLinh-08.c
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(48,35): warning C4133: 'function': incompatible types - from 'b_node *' to 'b_node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(102,30): warning C4133: 'function': incompatible types - from 'b_node *' to 'b_node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(112,27): warning C4133: '=': incompatible types - from 'b_node *' to 'b_node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(114,23): warning C4133: '=': incompatible types - from 'b_node *' to 'b_node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(153,3): warning C4033: 'b_split' must return a value
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(171,11): warning C4133: 'initializing': incompatible types - from 'b_node *' to 'b_node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(210,44): warning C4133: 'function': incompatible types - from 'b_node *' to 'b_node *'
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(155): warning C4715: 'b_split': not all control paths return a value
+C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\Duongová-MyLinh-08.c(212): warning C4715: 'b_find_insertion_vertex': not all control paths return a value
+  GivingUpBro.vcxproj -> C:\Users\MlpLu\Documents\Programming projects\GivingUpBro\x64\Debug\GivingUpBro.exe
